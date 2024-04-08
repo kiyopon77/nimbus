@@ -9,7 +9,7 @@ import ttkbootstrap
 
 # function to get weather info from owm api
 def get_weather(city):
-    API_key = "020814103a2c3e707aeb11f347ed10f2"
+    API_key = "Your_API_key"
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_key}"
     res = requests.get(url)
 
