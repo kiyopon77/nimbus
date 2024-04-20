@@ -21,3 +21,14 @@ experience, catering to both normies and
 weather enthusiasts alike.
 
 ![image](https://github.com/kiyopon77/nimbus/assets/89176164/3ccca9a3-ca13-4914-8b03-acab7ac40d4a)
+
+KEY FEATURES
+▪ Minimal wait times between
+queries because of the seamless
+API integration.
+▪ Error Prompt for failing to detect
+a City due to API or Internet
+failure.
+▪ Minimalist UI for the tech
+enthusiasts especially Linux
+tards.
