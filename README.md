@@ -23,6 +23,7 @@ weather enthusiasts alike.
 ![image](https://github.com/kiyopon77/nimbus/assets/89176164/3ccca9a3-ca13-4914-8b03-acab7ac40d4a)
 
 KEY FEATURES
+
 ▪ Minimal wait times between
 queries because of the seamless
 API integration.
