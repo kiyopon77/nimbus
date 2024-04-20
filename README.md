@@ -1,7 +1,7 @@
 # nimbus
 a weather telecast app (for now)
 
-Nimbus Weather is a lightweight weather 
+'Nimbus Weather' is a lightweight weather 
 application built with Python, utilizing the
 OpenWeatherMap API for real-time weather
 data. Developed using Tkinter for the
