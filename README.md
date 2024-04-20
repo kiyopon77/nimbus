@@ -26,9 +26,11 @@ KEY FEATURES
 ▪ Minimal wait times between
 queries because of the seamless
 API integration.
+
 ▪ Error Prompt for failing to detect
 a City due to API or Internet
 failure.
+
 ▪ Minimalist UI for the tech
 enthusiasts especially Linux
 tards.
