@@ -35,3 +35,5 @@ failure.
 ▪ Minimalist UI for the tech
 enthusiasts especially Linux
 tards.
+
+API Key - 020814103a2c3e707aeb11f347ed10f2 (personal)
